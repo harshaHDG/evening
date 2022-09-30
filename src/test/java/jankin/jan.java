@@ -13,5 +13,7 @@ public class jan {
 		System.out.println("i am tejas");
 
 	}
-
+      public void hplaptop(){
+    	  System.out.println("good");
+      }
 }
