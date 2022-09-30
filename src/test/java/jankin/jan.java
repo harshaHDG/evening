@@ -24,5 +24,6 @@ public class jan {
 
       public void hplaptop(){
     	  System.out.println("good");
+    	  System.out.println("bad");
       }
 }
