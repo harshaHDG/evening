@@ -8,7 +8,10 @@ public class jan {
 	
 	{
 		System.out.println("master");
+
 		System.out.println("hemanth");
+		System.out.println("i am tejas");
+
 	}
 
 }
