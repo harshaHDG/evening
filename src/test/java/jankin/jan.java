@@ -15,9 +15,14 @@ public class jan {
 		
 
 	}
+
 	public void secnd()
 	{
 		System.out.println("no conflicts should come");
 	}
 
+=======
+      public void hplaptop(){
+    	  System.out.println("good");
+      }
 }
