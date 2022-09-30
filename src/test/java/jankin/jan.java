@@ -21,7 +21,7 @@ public class jan {
 		System.out.println("no conflicts should come");
 	}
 
-=======
+
       public void hplaptop(){
     	  System.out.println("good");
       }
